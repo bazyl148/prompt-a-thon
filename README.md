@@ -1,1 +1,1 @@
-# Copilot Prompt-a-thon Notes & Labs
+# Copilot Prompt-a-thon Activités & Labs
