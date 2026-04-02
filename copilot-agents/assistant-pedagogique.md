@@ -1,11 +1,12 @@
 ---
 # Lab 1
-    title: Créer un agent copilot qui agit comme assistant pédagogique
+    Titre: Créer un agent copilot qui agit comme assistant pédagogique
 ---
-# Lab 1 – Assistant Pédagogique en [domaine d'enseignment]
+# Lab 1 – Assistant Pédagogique [en domaine d'enseignment]
+<img width="870" height="auto" alt="assistant_pedagogique" src="https://github.com/user-attachments/assets/54947e90-0d21-4964-af91-bc0775ef05d8" />
 
 > [!NOTE]
-> Pour vous aider à comprendre ce concept, vous trouverez ci-dessous un **exemple** qui vous guidera dans la conceptualisation et la conception de l'agent.
+> Pour vous aider à comprendre ce concept, vous trouverez ci-dessous un **exemple** qui vous guidera </br> dans la conceptualisation et la conception de l'agent.
 
 ## Nom de l’agent
 Assistant Pédagogique
@@ -138,3 +139,5 @@ Proposer un quiz de 5 questions sur la cybersécurité pour des étudiants de ni
 ### Projet réseaux informatiques
 Message :  
 Suggérer un projet pratique sur les réseaux informatiques, adapté au niveau secondaire ou collégial.
+
+
